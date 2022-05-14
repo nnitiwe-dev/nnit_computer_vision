@@ -11,9 +11,9 @@ class Noise:
 		:param noise_typ: Category of noise to apply on image.
 		:type noise_typ: str
 		:param image: Image Data as numpy array
-        :type image: np.array
-
-        :returns: Image (np.array)
+		:type image: np.array
+		
+		:returns: Image (np.array)
 
 		'''
 		if noise_typ == "gaussian":
