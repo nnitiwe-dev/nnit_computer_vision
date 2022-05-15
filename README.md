@@ -4,7 +4,7 @@ Python scripts for popular image processing algorithms.
 ## Table of Content
 1. [x] - [Image Processing](https://github.com/nnitiwe-dev/nnit_computer_vision/tree/main/Image%20Processing)
 2. [x] - [Classification](https://github.com/nnitiwe-dev/nnit_computer_vision/tree/main/Classification)
-3. [ ] - Transfer Learning
+3. [x] - [Transfer Learning](https://github.com/nnitiwe-dev/nnit_computer_vision/tree/main/Transfer%20Learning)
 4. [ ] - Object Detection
 5. [ ] - Segmentation
 6. [ ] - Auto Encoding
